@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"@fastify/http-proxy": "^8.2.2",
+		"@fastify/reply-from": "^8.2.1",
+		"fastify": "^4.5.2"
+	}
+}
